@@ -1,1 +1,1 @@
-# Compare-Interpretability-Techniques
+# Compare Interpretability Techniques
