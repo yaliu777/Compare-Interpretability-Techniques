@@ -10,18 +10,3 @@ This project aims to compare machine learning interpretability techniques. Since
 ## Some Results
 ### Handwritten Digits
 I train a CNN model in Keras, and utilize these three techniques to explain it.
-
-**DeepLIFT**
-![digit_deeplift](https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/digit_deeplift.png)
-
-**Deep SHAP**
-![digit_deepshap](https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/digit_deepshap.png)
-
-**Gradient SHAP**
-![digit_gradientshap](https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/digit_gradientshap.png)
-
-**Kernel SHAP**
-![digit_kernershap](https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/digit_kernelshap.png)
-
-**LIME**
-![digit_lime](https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/digit_lime.png)
