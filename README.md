@@ -9,4 +9,5 @@ This project aims to compare machine learning interpretability techniques. Since
 
 ## Some Results
 ### Handwritten Digits
-I train a CNN model in Keras, and utilize these three techniques to explain it.
+I train a CNN model in Keras, and utilize these three techniques to explain it. Here we can see how they explain digit seven and eight.
+![digit_comparison](https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/digit_comparison.png)
