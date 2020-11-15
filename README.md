@@ -7,3 +7,8 @@ This project aims to compare machine learning interpretability techniques. Since
 
 “Interpretability is the degree to which a human can understand the cause of a decision.” — Tim Miller
 
+## Some Results
+### Handwritten Digits
+I train a CNN model in Keras, and utilize these three techniques to explain it.
+
+\textbf{DeepLIFT}
