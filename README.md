@@ -11,4 +11,5 @@ This project aims to compare machine learning interpretability techniques. Since
 ### Handwritten Digits
 I train a CNN model in Keras, and utilize these three techniques to explain it.
 
-\textbf{DeepLIFT}
+**DeepLIFT**
+![digit_deeplift]()
