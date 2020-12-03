@@ -1,0 +1,2 @@
+sudo pip3 install shap
+sudo pip3 install keras==2.4.3
