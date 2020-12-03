@@ -1,0 +1,3 @@
+pip3 install deeplift
+pip3 install tensorflow==1.15.2
+pip3 install keras==2.3.1
