@@ -9,7 +9,7 @@ This project aims to compare machine learning interpretability techniques. Since
 
 ## Some Results
 I train a CNN model in Keras, and utilize these three techniques to explain it. Here we can see how they explain digit seven and eight.
-<img src="https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/digit_comparison.png" width="700">
+<img src="https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/compare_digit.png" width="700">
 
 This image shows how they explain flip flops and casual shoes.
 <img src="https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/compare_flip.png" width="700">
