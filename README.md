@@ -8,11 +8,11 @@ This project aims to compare machine learning interpretability techniques. Since
 “Interpretability is the degree to which a human can understand the cause of a decision.” — Tim Miller
 
 ## Some Results
-I train a CNN model in Keras, and utilize these three techniques to explain it. Here we can see how they explain digit seven and eight.
+I train a CNN model in Keras, and utilize these three techniques to explain it. Here we can see how they explain digit seven and eight. They are similar but also slightly different.
 <p align="center">
 <img src="https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/compare_digit.png" width="700" />
 </p>
-This image shows how they explain flip flops and casual shoes.
+I also finetune vgg16 on fashion product dataset. The following images show how they explain flip flops and casual shoes. There may be a problem of sparseness in GradientExplainer, and a problem of instability in LIME. Overall I think DeepExplainer's explanation is in correspondence with human tuition. 
 <p align="center">
 <img src="https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/compare_flip.png" width="700" class="center" />
 <img src="https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/compare_shoes.png" width="700" class="center" />
