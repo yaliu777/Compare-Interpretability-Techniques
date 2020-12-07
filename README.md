@@ -17,3 +17,7 @@ I also finetune vgg16 on fashion product dataset. The following images show how 
 <img src="https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/compare_flip.png" width="700" class="center" />
 <img src="https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/compare_shoes.png" width="700" class="center" />
 </p>
+Another interesting finding about DeepExplainer is that after I rotate an image 90 degree or 180 degree, its explanation changes as model's prediction changes.
+<p align="center">
+<img src="https://github.com/yaliu777/Compare-Interpretability-Techniques/blob/main/images/rotate.png" width="700" />
+</p>
